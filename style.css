@@ -1,0 +1,39 @@
+body{
+    background-color: grey;
+    color: black;
+}
+#show_sketch{
+    background-color:darkgray;
+    float: right;
+    font-size: 20px;
+}
+#show_sketch:hover{
+    background-color: whitesmoke;
+}
+
+p{
+    background-color: aliceblue;
+}
+
+h1{
+    background-color: aliceblue;
+    padding-left: 135px;
+}
+
+h2{
+    color: red;
+}
+
+label{
+    font-size: 25px;
+    font-weight: bold;
+    background-color: aliceblue;
+}
+
+#Time{
+    float: right;
+}
+
+#Score{
+    float: left;
+}
